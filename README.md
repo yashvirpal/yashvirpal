@@ -2,7 +2,7 @@
 
 ### Senior Software Developer | Laravel · Python · AI & RAG · Docker & DevOps
 
-I'm a software developer with **9+ years** of experience and **40+ projects shipped**. I build scalable web applications, AI-powered features, and production-ready systems, from database design to deployment.
+I'm a software developer with **10+ years** of experience and **40+ projects shipped**. I build scalable web applications, AI-powered features, and production-ready systems, from database design to deployment.
 
 📍 Delhi, India · 🌍 Working remotely worldwide · 💼 Available for freelance projects
 
